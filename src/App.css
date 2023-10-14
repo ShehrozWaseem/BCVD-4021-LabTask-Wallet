@@ -1,0 +1,11 @@
+.App {
+  /* text-align: center; */
+  margin: 0px auto;
+  max-width: max-content;
+}
+
+.field{
+  /* border:2px solid black; */
+  max-width: 80%;
+  margin: auto;
+}
